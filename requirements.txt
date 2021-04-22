@@ -10,8 +10,8 @@ Flask-HTTPAuth==3.2.2
 Flask-SocketIO==2.8.6
 greenlet==0.4.12
 itsdangerous==0.24
-Jinja2==2.9.6
-MarkupSafe==1.0
+Jinja2==2.10
+MarkupSafe
 MicroFlack-Common==0.3
 PyJWT==1.4.2
 python-dotenv==0.6.4
